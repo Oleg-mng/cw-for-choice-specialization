@@ -1,0 +1,15 @@
+/Users/olegmonogarov/GeekBrains_/09.08 КР к Выбор специализации/contwork/bin/Debug/net6.0/contwork
+/Users/olegmonogarov/GeekBrains_/09.08 КР к Выбор специализации/contwork/bin/Debug/net6.0/contwork.deps.json
+/Users/olegmonogarov/GeekBrains_/09.08 КР к Выбор специализации/contwork/bin/Debug/net6.0/contwork.runtimeconfig.json
+/Users/olegmonogarov/GeekBrains_/09.08 КР к Выбор специализации/contwork/bin/Debug/net6.0/contwork.dll
+/Users/olegmonogarov/GeekBrains_/09.08 КР к Выбор специализации/contwork/bin/Debug/net6.0/contwork.pdb
+/Users/olegmonogarov/GeekBrains_/09.08 КР к Выбор специализации/contwork/obj/Debug/net6.0/contwork.csproj.AssemblyReference.cache
+/Users/olegmonogarov/GeekBrains_/09.08 КР к Выбор специализации/contwork/obj/Debug/net6.0/contwork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegmonogarov/GeekBrains_/09.08 КР к Выбор специализации/contwork/obj/Debug/net6.0/contwork.AssemblyInfoInputs.cache
+/Users/olegmonogarov/GeekBrains_/09.08 КР к Выбор специализации/contwork/obj/Debug/net6.0/contwork.AssemblyInfo.cs
+/Users/olegmonogarov/GeekBrains_/09.08 КР к Выбор специализации/contwork/obj/Debug/net6.0/contwork.csproj.CoreCompileInputs.cache
+/Users/olegmonogarov/GeekBrains_/09.08 КР к Выбор специализации/contwork/obj/Debug/net6.0/contwork.dll
+/Users/olegmonogarov/GeekBrains_/09.08 КР к Выбор специализации/contwork/obj/Debug/net6.0/refint/contwork.dll
+/Users/olegmonogarov/GeekBrains_/09.08 КР к Выбор специализации/contwork/obj/Debug/net6.0/contwork.pdb
+/Users/olegmonogarov/GeekBrains_/09.08 КР к Выбор специализации/contwork/obj/Debug/net6.0/contwork.genruntimeconfig.cache
+/Users/olegmonogarov/GeekBrains_/09.08 КР к Выбор специализации/contwork/obj/Debug/net6.0/ref/contwork.dll
